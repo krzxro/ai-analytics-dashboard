@@ -1,4 +1,4 @@
-# InsightPilot — AI-Powered Employee Retention Analytics
+# AI-Powered Employee Retention Analytics
 
 An interactive portfolio project using the **IBM HR Analytics Employee Attrition & Performance** dataset published on Kaggle. It includes exploratory business intelligence, automated cleaning, a holdout-evaluated logistic regression model, and optional OpenAI-generated executive summaries.
 
