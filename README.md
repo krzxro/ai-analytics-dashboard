@@ -6,7 +6,7 @@ An interactive portfolio project using the **IBM HR Analytics Employee Attrition
 
 Download the dataset from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset and extract `WA_Fn-UseC_-HR-Employee-Attrition.csv`. Either upload it in the sidebar or place it in `data/` next to `app.py`.
 
-**The CSV is not bundled** because access to Kaggle/GitHub download services was unavailable in the project-building environment. The app is adapted to the published schema, but it has not been end-to-end verified against the complete CSV here. The data is **fictional**, not actual IBM workforce data.
+The data is **fictional**, not actual IBM workforce data.
 
 ## Run
 
