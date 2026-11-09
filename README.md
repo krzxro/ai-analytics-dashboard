@@ -34,12 +34,6 @@ Optional: set `OPENAI_API_KEY` in your environment to enable LLM-generated summa
 - The classifier is a demonstration only; not for actual hiring or HR decisions.
 - A single holdout split is not production-level model validation.
 
-## Resume wording (only after you have run and reviewed the project)
-
-**InsightPilot — AI-Powered Employee Retention Analytics | Python, Streamlit, Scikit-learn, OpenAI API**
-- Built an interactive analytics dashboard for a 1,470-record fictional HR dataset, visualizing attrition patterns across departments and workplace factors.
-- Implemented automated data cleaning and a holdout-evaluated logistic regression classifier to explore employee attrition patterns.
-- Integrated an LLM API to generate executive summaries grounded in aggregated statistical findings.
 
 ## Attribution
 
